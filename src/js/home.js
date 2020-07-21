@@ -187,7 +187,6 @@ fetch('https://randomuser.me/api/dsfdsfsd')
     }
     const { data: { movies: data } } = await getData(`${BASE_API}list_movies.json?genre=${category}`)
     window.localStorage.setItem(listName, JSON.stringify(data))
-
     return data;
   }
 

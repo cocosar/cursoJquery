@@ -12,6 +12,7 @@ body {
   grid-template-rows: 1fr 0;
   grid-template-areas: "sidebar primary"
                        "sidebar featuring";
+  overflow: hidden;
 }
 .home.search-active {
   grid-template-rows: 1fr 150px;
