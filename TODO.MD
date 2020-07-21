@@ -3,4 +3,4 @@
 - Con la misma api yst tambien insertar los titulos en un ranking en la side bar
 
 - Customizar CSS
-- Boton para renovar cache (localStorage)!
+- Boton para renovar cache (localStorage)!!
